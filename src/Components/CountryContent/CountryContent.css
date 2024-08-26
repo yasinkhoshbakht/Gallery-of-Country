@@ -1,0 +1,17 @@
+.country-content {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  font-size: 18px;
+  text-align: center;
+}
+
+.country-image {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
